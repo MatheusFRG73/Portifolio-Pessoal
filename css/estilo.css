@@ -182,7 +182,9 @@ div ul.projeto li div.flex-row .descricao a {
     margin-left: 4vw;
 }
 
-
+div ul.projeto li div.flex-row .descricao {
+    padding-left: 15px;
+}
 
 
 
