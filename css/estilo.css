@@ -70,6 +70,18 @@
     width: 940px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 /* Códigos reaproveitáveis */
 
 ul.borda div li img, ol.borda div li img {
@@ -171,6 +183,13 @@ div ul.projeto li div.flex-row .descricao a {
 }
 
 
+
+
+
+
+
+
+
 /* Layout do site */
 
 
@@ -224,4 +243,61 @@ ul.flex-column li img {
         margin: 0 auto;
         overflow: auto;
     }
+    .col1 {
+        width: 30px;
+    }
+    
+    .col2 {
+        width: 60px;
+    }
+    
+    .col3 {
+        width: 90px;
+    }
+    
+    .col4 {
+        width: 120px;
+    }
+    
+    .col5 {
+        width: 150px;
+    }
+    
+    .col6 {
+        width: 180px;
+    }
+    
+    .col7 {
+        width: 210px;
+    }
+    
+    .col8 {
+        width: 240px;
+    }
+    
+    .col9 {
+        width: 270px;
+    }
+    
+    .col10 {
+        width: 300px;
+    }
+    
+    .col11 {
+        width: 330px;
+    }
+    
+    .col12 {
+        width: 360px;
+    }
+
+    .flex-row { /* Vira no formato de coluna para dispositivos móveis */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header .linha header .coluna.col4 h1 {
+        margin-left: 35vw;
+    }
+
 }
