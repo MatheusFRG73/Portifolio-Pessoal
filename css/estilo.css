@@ -305,3 +305,40 @@ ul.flex-column li img {
     }
 
 }
+
+
+@media all and  (orientation:landscape)  and (max-width:800px){
+
+    .linha {
+        width: 660px;
+        margin: 0 auto;
+        overflow: auto;
+    }
+     
+
+    
+    .col4 {
+        width: 224px;
+    }
+    
+
+    
+    .col6 {
+        width: 320px; 
+    }
+    
+
+    
+    .col8 {
+        width: 390px;
+    }
+    
+
+    
+
+    
+
+    
+
+    
+}
