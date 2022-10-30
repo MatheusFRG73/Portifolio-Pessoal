@@ -301,7 +301,8 @@ ul.flex-column li img {
 
     }
     .header .linha header .coluna.col4 h1 {
-        margin-left: 20vw;
+        margin-left: 25vw;
+        color: red;
     }
 
 }
