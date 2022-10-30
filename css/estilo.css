@@ -237,7 +237,7 @@ ul.flex-column li img {
     float: left; /* Flutue para o lado esquerdo */
 }
 
-@media all and (min-width:300px) {
+@media all and (min-width:300px) and (max-width:500px) {
     .linha {
         width: 360px;
         margin: 0 auto;
