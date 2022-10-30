@@ -217,3 +217,11 @@ ul.flex-column li img {
     height: auto;
     float: left; /* Flutue para o lado esquerdo */
 }
+
+@media all and (min-width:300px) {
+    .linha {
+        width: 360px;
+        margin: 0 auto;
+        overflow: auto;
+    }
+}
