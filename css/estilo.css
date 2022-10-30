@@ -296,8 +296,12 @@ ul.flex-column li img {
         flex-direction: column;
     }
 
+    ul.flex {
+        padding: 0;
+
+    }
     .header .linha header .coluna.col4 h1 {
-        margin-left: 25vw;
+        margin-left: 35vw;
     }
 
 }
